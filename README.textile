@@ -1,0 +1,2 @@
+Scrapes "scraperwiki.com":http://scraperwiki.com
+and gets names and id's of scrapers currently stored.
